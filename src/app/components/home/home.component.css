@@ -1,0 +1,73 @@
+.about ul li,.history ul li,.services ul li,.card-header,.card-body{
+    font-size:20px;
+    }
+    p,.about ul li,.history ul li,.services ul li{
+      text-align: justify;
+    
+    }
+    .about ul li,.history ul li{
+      list-style-type: none;
+    }
+    h2,.more,.modal-title{
+      color: #ed8446;
+    }
+    .more{
+      cursor: pointer;
+    }
+    .about .fa-arrow-right{
+      font-size: 15px;
+    }
+    
+    
+    
+    .features {
+      margin-bottom: 35px;
+      overflow: hidden;
+      text-align: center;
+      padding: 15px;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      background: #fff;
+      min-height: 290px;
+    }
+    .services ul li{
+      list-style-type: disclosure-closed;
+     
+    }
+    
+    
+    
+    
+
+
+    .bg {
+      background: #f5f5f5;
+    }
+    .events {
+      padding: 20px;
+      height: 175px;
+      margin-bottom: 25px;
+      background: #fff;
+      box-shadow: 1px 1px 3px rgb(0 0 0 / 10%);
+      max-width: 350px;
+      max-height: 150px;
+    }
+    .events {
+      padding-right: 25px;
+    }
+    
+    
+    
+    
+    .events-heading {
+      font-size: 15px !important;
+      
+      text-transform: uppercase;
+      color:#ed8446;
+    }
+    
+    .events-body p {
+      font-size: 14px;
+    }
+    
+    
