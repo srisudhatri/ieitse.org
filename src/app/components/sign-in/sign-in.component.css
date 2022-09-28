@@ -1,0 +1,23 @@
+.login{
+    background-color:#fff;
+    box-shadow: 0 10px 30px rgb(0 0 0 / 10%);
+    
+    border-top: 3px solid #ed8446;
+    text-align: center;
+    padding: 15px;
+    min-height: 400px;
+    margin-bottom: 25px;
+}
+h5,a{
+    
+    color:#ed8446;
+}
+a{
+    text-decoration: none;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #ed8446;
+    border-color: #ed8446;
+}
